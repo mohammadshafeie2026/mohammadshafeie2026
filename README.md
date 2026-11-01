@@ -63,22 +63,15 @@ To become an AI Engineer and pursue a Master's degree in Artificial Intelligence
 </p>
 ### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🖨️ Print Shop Manager</h3>
-      A Python desktop application for managing customers, print orders, pricing and delivery.
+**🖨️ Print Shop Manager**
 
-      **Technologies:** Python, OOP, Tkinter, Pickle
+A Python desktop application for managing customers, print orders, pricing, and delivery.
 
-      <a href="https://github.com/mohammadshafeie2026/Print_Shop_Manager">View Repository →</a>
-    </td>
-  </tr>
-</table>
+- **Technologies:** Python, OOP, Tkinter, Pickle
+- **Repository:** [View Project on GitHub](https://github.com/mohammadshafeie2026/Print_Shop_Manager)
 
 ### 🌱 Learning Journey
 
 Currently building my foundation in Python and working toward Data Science and Artificial Intelligence.
 
 **One step at a time. One project at a time.**
-*Learning every day. Building one project at a time.*
