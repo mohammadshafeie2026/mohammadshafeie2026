@@ -6,6 +6,8 @@ I'm a physics teacher with a growing passion for programming, data science, and 
 
 My journey started with Python, and I'm building my skills step by step through practical projects and continuous learning.
 
+---
+
 ### 🚀 Current Focus
 
 - Python Programming
@@ -14,41 +16,29 @@ My journey started with Python, and I'm building my skills step by step through 
 - Machine Learning & Deep Learning
 - Artificial Intelligence & AI Agents
 
+---
+
 ### 🛠️ Technologies & Tools
 
-- Python
-- Git & GitHub
-- Tkinter
-- Pickle
-- NumPy & Pandas *(Learning)*
-- Matplotlib *(Learning)*
-
-### 📂 Featured Project
-
-**[Print Shop Management System](https://github.com/mohammadshafeie2026/Print_Shop_Manager)**
-
-My first Python project, built using OOP, Tkinter, file handling, validation, and a layered project structure.
-
-### 🎯 My Long-Term Goal
-
-To become an AI Engineer and pursue a Master's degree in Artificial Intelligence at Sharif University of Technology.
-
-### 📫 Connect with me
-
-- GitHub: [@mohammadshafeie2026](https://github.com/mohammadshafeie2026)
-
----
-💻 Tech Stack
+**Currently Working With:**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Tkinter-FFCA28?style=for-the-badge&logo=python&logoColor=black" />
+</p>
+
+**Currently Learning:**
+
+<p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -61,6 +51,9 @@ To become an AI Engineer and pursue a Master's degree in Artificial Intelligence
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohammadshafeie2026&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
 ### 🚀 Featured Projects
 
 **🖨️ Print Shop Manager**
@@ -70,8 +63,23 @@ A Python desktop application for managing customers, print orders, pricing, and 
 - **Technologies:** Python, OOP, Tkinter, Pickle
 - **Repository:** [View Project on GitHub](https://github.com/mohammadshafeie2026/Print_Shop_Manager)
 
+---
+
+### 🎯 My Long-Term Goal
+
+To become an AI Engineer and pursue a Master's degree in Artificial Intelligence at Sharif University of Technology.
+
+---
+
 ### 🌱 Learning Journey
 
 Currently building my foundation in Python and working toward Data Science and Artificial Intelligence.
 
-**One step at a time. One project at a time.**
+**One step at a time. One project at a time.** 💪
+
+---
+
+### 📫 Connect with me
+
+- GitHub: [@mohammadshafeie2026](https://github.com/mohammadshafeie2026)
+
